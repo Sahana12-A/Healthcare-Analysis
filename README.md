@@ -1,6 +1,6 @@
 # 🏥 Healthcare Analysis (Hospital Management)
 
-Welcome to my **Healthcare Analysis** project — a practical Excel-based solution designed to improve hospital operations, staff efficiency, and patient experience. This hands-on project simulates the real-world challenges hospitals face and demonstrates how data can be used to enhance daily decision-making in the healthcare sector.
+Welcome to my **Healthcare Analysis** project — a practical Tableau solution designed to improve hospital operations, staff efficiency, and patient experience. This hands-on project simulates the real-world challenges hospitals face and demonstrates how data can be used to enhance daily decision-making in the healthcare sector.
 
 ---
 
@@ -15,8 +15,8 @@ To build a data-driven system that supports hospital administrators in:
 
 ## 🔍 Project Highlights
 
-### 📊 **Excel-Based Reporting System**
-- Developed a **dashboard tool** using Microsoft Excel to track and visualize hospital data  
+### 📊 ** Tableau-Based Reporting System**
+- Developed a **dashboard tool** using Tableau to track and visualize hospital data  
 - Enabled real-time visibility into critical KPIs, improving workflow transparency  
 
 ---
